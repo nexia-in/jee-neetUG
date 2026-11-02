@@ -7,7 +7,7 @@
 */
 window.NEXIA_CONTENT = {
   brandName: "NEXIA",
-  year: "2026",
+  year: "",
   experience: "17 YEARS OF TRUSTED SERVICE",
 
   /* WhatsApp: country code + number, digits only */
@@ -72,7 +72,7 @@ window.NEXIA_CONTENT = {
 
   exams: {
     jee: {
-      title: "JEE MAIN",
+      title: "JEE MAIN 2026-27",
       mark: "J",
       courses: [
         "B.E. / B.Tech (Paper 1) – എഞ്ചിനീയറിംഗ്",
@@ -90,7 +90,7 @@ window.NEXIA_CONTENT = {
       ]
     },
     neet: {
-      title: "NEET UG",
+      title: "NEET UG 2027",
       mark: "N",
       courses: [
         "MBBS",
